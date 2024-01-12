@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "65495280902",
+    "project_id": "rapid-chat-pro",
+    "storage_bucket": "rapid-chat-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65495280902:android:c20d517debc6aaf3628287",
+        "android_client_info": {
+          "package_name": "com.example.chat_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65495280902-d3mjlds7mngp10r2otdqk1r1fdjmfpah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xCRRflG57ZUZ9FsSpJc3nZNnp9e-c4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65495280902-d3mjlds7mngp10r2otdqk1r1fdjmfpah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65495280902-3q887u60ksqj0pre0e4pan7ocmgab1vu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mukeshsheoran.rapidChatPro.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65495280902:android:a77bef9eea0b0804628287",
+        "android_client_info": {
+          "package_name": "com.mukeshsheoran.rapid_chat_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65495280902-d3mjlds7mngp10r2otdqk1r1fdjmfpah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xCRRflG57ZUZ9FsSpJc3nZNnp9e-c4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65495280902-d3mjlds7mngp10r2otdqk1r1fdjmfpah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65495280902-3q887u60ksqj0pre0e4pan7ocmgab1vu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mukeshsheoran.rapidChatPro.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
